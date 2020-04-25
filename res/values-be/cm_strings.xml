@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2012-2016 The CyanogenMod Project
-     Copyright (C) 2017-2019 The LineageOS Project
+     Copyright (C) 2017-2019 The AndroidBw Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -25,7 +25,7 @@
     <string name="adb_over_network">Адладка па сетцы</string>
     <string name="adb_over_network_summary">Уключыць рэжым адладкі праз сеткавыя інтэрфейсы (Wi-Fi і USB-сеткі). Адладка адключаецца пры перазагрузцы прылады</string>
     <string name="adb_over_network_warning">УВАГА: калі ўключана адладка па сетцы, прылада адкрыта для некантралюемага доступу з усіх падлучаных сетак!\n\nСкарыстайце гэту функцыю толькі тады, калі вы падлучаны да давераных сетак.\n\nВы сапраўды хочаце ўключыць гэту функцыю?</string>
-    <string name="lineagelicense_title">Палітыка прыватнасці LineageOS</string>
+    <string name="lineagelicense_title">Палітыка прыватнасці AndroidBw</string>
     <string name="kill_app_longpress_back">Зачыненне дадатку</string>
     <string name="kill_app_longpress_back_summary">Завяршаць працу бягучага дадатку ўтрымліваннем кнопкі \"Назад\"</string>
     <string name="device_hostname">Сеткавае імя прылады</string>

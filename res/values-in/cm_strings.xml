@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2012-2016 The CyanogenMod Project
-     Copyright (C) 2017-2019 The LineageOS Project
+     Copyright (C) 2017-2019 The AndroidBw Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -31,7 +31,7 @@
     <string name="adb_over_network">ADB melalui jaringan</string>
     <string name="adb_over_network_summary">Aktifkan TCP/IP debug melalui antarmuka jaringan (Wi-Fi, jaringan USB). Pengaturan ini dikembalikan standar saat dihidupkan ulang</string>
     <string name="adb_over_network_warning">PERINGATAN: Ketika ADB melalui jaringan diaktifkan, ponsel Anda terbuka terhadap intrusi pada semua jaringan yang terhubung!\n\nHanya gunakan fitur ini ketika Anda terhubung pada jaringan tepercaya\n\nApakah Anda benar-benar ingin mengaktifkan fungsi ini?</string>
-    <string name="lineagelicense_title">Hukum LineageOS</string>
+    <string name="lineagelicense_title">Hukum AndroidBw</string>
     <string name="kill_app_longpress_back">Matikan aplikasi dengan tombol kembali</string>
     <string name="kill_app_longpress_back_summary">Matikan aplikasi latar dengan menahan tombol kembali</string>
     <string name="device_hostname">Nama host perangkat</string>

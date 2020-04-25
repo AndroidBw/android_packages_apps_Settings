@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2012-2016 The CyanogenMod Project
-     Copyright (C) 2017-2019 The LineageOS Project
+     Copyright (C) 2017-2019 The AndroidBw Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -33,7 +33,7 @@
     <string name="adb_over_network">ADB cez sieť</string>
     <string name="adb_over_network_summary">Povoliť TCP/IP ladenie cez sieť (Wi-Fi alebo USB sieť). Toto nastavenie bude obnovené po reštarte</string>
     <string name="adb_over_network_warning">VAROVANIE: Ak je povolené ADB cez sieť, zariadenie je otvorené pre pokusy o prieniky na všetkých pripojených sieťach, vrátane GSM dátových sieťach!\n\nPoužite túto funkciu iba ak ste pripojení k dôveryhodnej sieti.\n\nChcete povoliť túto funkciu?</string>
-    <string name="lineagelicense_title">Právne informácie LineageOS</string>
+    <string name="lineagelicense_title">Právne informácie AndroidBw</string>
     <string name="kill_app_longpress_back">Ukončiť aplikáciu tlačidlom Späť</string>
     <string name="kill_app_longpress_back_summary">Dlhé stlačenie tlačidla Späť ukončí aplikáciu na popredí</string>
     <string name="device_hostname">Názov zariadenia</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2012-2016 The CyanogenMod Project
-     Copyright (C) 2017-2019 The LineageOS Project
+     Copyright (C) 2017-2019 The AndroidBw Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -27,7 +27,7 @@
     <string name="adb_over_network">ADB по мережі</string>
     <string name="adb_over_network_summary">Увімкнути налагодження TCP/IP через мережеві інтерфейси (Wi-Fi, USB мережі). Це налаштування скидається при перезавантаженні</string>
     <string name="adb_over_network_warning">УВАГА: коли включено налагодження по мережі, пристрій відкритий для неконтрольованого доступу з усіх підключених мереж!\n\nВикористовуйте цю функцію тільки тоді, коли ви підключені до довірених мереж.\n\nВи дійсно хочете увімкнути цю функцію?</string>
-    <string name="lineagelicense_title">Політика конфіденційності LineageOS</string>
+    <string name="lineagelicense_title">Політика конфіденційності AndroidBw</string>
     <string name="kill_app_longpress_back">Закрити програму</string>
     <string name="kill_app_longpress_back_summary">Довгий натиск на кнопку «Назад» закриє запущену програму</string>
     <string name="device_hostname">Ім’я пристрою</string>

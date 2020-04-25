@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2012-2016 The CyanogenMod Project
-     Copyright (C) 2017-2019 The LineageOS Project
+     Copyright (C) 2017-2019 The AndroidBw Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -29,7 +29,7 @@
     <string name="adb_over_network">ನೆಟ್‍ವರ್ಕ್ ಮೇಲಿನಿಂದ ಎಡಿಬಿ</string>
     <string name="adb_over_network_summary">ನೆಟ್‍ವರ್ಕ್ ಇಂಟರ್ಫೇಸ್ (ವೈ\u2011ಫೈ, ಯುಎಸ್‍ಬಿ ನೆಟ್‍ವರ್ಕ್‍ಗಳು) ಮೇಲಿನಿಂದ ಟಿಸಿಪಿ/ಐಪಿ ಡೀಬಗ್ಗಿಂಗ್ ಸಕ್ರಿಯಗೊಳಿಸಿ. ಈ ಸೆಟ್ಟಿಂಗ್ಸ್ ರಿಬೂಟ್ ಆದಾಗ ಮರುಹೊಂದುತ್ತದೆ</string>
     <string name="adb_over_network_warning">ಎಚ್ಚರಿಕೆ: ನೆಟ್‍ವರ್ಕ್ ಮೇಲೆ ಎಡಿಬಿ ಸಕ್ರಿಯಗೊಳಿಸಿದಾಗ, ನಿಮ್ಮ ಫೋನ್ ಸಂಪರ್ಕಗೊಂಡ ಎಲ್ಲಾ ನೆಟ್‍ವರ್ಕ್‍ಗಳಲ್ಲಿ ಅತಿಕ್ರಮಣಗಳಿಗಾಗಿ ತೆರೆದಿರುತ್ತದೆ!\n\nನೀವು ವಿಶ್ವಾಸಾರ್ಹ ನೆಟ್‍ವರ್ಕ್‍ಗಳಲ್ಲಿ ಸಂಪರ್ಕಗೊಂಡಾಗ ಮಾತ್ರ ಈ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಉಪಯೋಗಿಸಿ.\n\nನೀವು ನಿಜವಾಗಿಯೂ ಈ ಕಾರ್ಯವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ಬಯಸುವಿರಾ?</string>
-    <string name="lineagelicense_title">LineageOS ಕಾನೂನು</string>
+    <string name="lineagelicense_title">AndroidBw ಕಾನೂನು</string>
     <string name="kill_app_longpress_back">ಆಪ್ ಕೊಲ್ಲು ಹಿಂದೆ ಬಟನ್</string>
     <string name="kill_app_longpress_back_summary">ಹಿಂದೆ ಬಟನ್‍ನನ್ನು ದೀರ್ಘ-ಸ್ಪರ್ಶಿಸುವ ಮೂಲಕ ಮುನ್ನೆಲೆ ಆಪನ್ನು ಕೊಲ್ಲಿರಿ</string>
     <string name="device_hostname">ಸಾಧನ ಹಾಸ್ಟ್ ಹೆಸರು</string>

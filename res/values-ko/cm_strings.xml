@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2012-2016 The CyanogenMod Project
-     Copyright (C) 2017-2019 The LineageOS Project
+     Copyright (C) 2017-2019 The AndroidBw Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -33,7 +33,7 @@
     <string name="adb_over_network">네트워크를 통한 ADB</string>
     <string name="adb_over_network_summary">네트워크 인터페이스(Wi\u2011Fi, USB 네트워크)를 통한 TCP/IP 디버깅을 사용합니다. 이 설정은 재부팅 시 초기화됩니다.</string>
     <string name="adb_over_network_warning">경고: 네트워크 ADB연결이 활성화되면 기기가 연결된 모든 네트워크를 통한 위험에 노출됩니다!\n\n신뢰할 수 있는 네트워크에서만 이 연결을 사용하십시오.\n\n정말로 이 기능을 활성화하시겠습니까?</string>
-    <string name="lineagelicense_title">LineageOS 법적 고지</string>
+    <string name="lineagelicense_title">AndroidBw 법적 고지</string>
     <string name="kill_app_longpress_back">뒤로 버튼으로 앱 종료</string>
     <string name="kill_app_longpress_back_summary">뒤로가기를 길게 눌러 이전 앱 종료</string>
     <string name="device_hostname">장치 호스트명</string>

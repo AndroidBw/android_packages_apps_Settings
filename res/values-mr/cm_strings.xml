@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2012-2016 The CyanogenMod Project
-     Copyright (C) 2017-2019 The LineageOS Project
+     Copyright (C) 2017-2019 The AndroidBw Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -28,7 +28,7 @@
     <string name="adb_over_network">नेटवर्कवर ADB</string>
     <string name="adb_over_network_summary">नेटवर्क इंटरफेसेसवर TCP/IP डिबगिंग सक्षम करा (Wi\u2011Fi, USB नेटवर्क्स). रीबूट केल्यावर हे सेटिंग रीसेट केले जाते</string>
     <string name="adb_over_network_warning">चेतावनी जेव्हा नेटवर्कवर ADB सक्षम केलेले असते तेव्हा, तुमचा फोन सर्व कनेक्ट केलेल्या नेटवर्क्सवर घुसखोरीसाठी तयार असतो!\n\nजेव्हा तुम्ही विश्वसनीय नेटवर्क्सवर कनेक्टेड असाल तेव्हाच केवळ हे वैशिष्ट्य वापरा.\n\nतुम्हाला हे कार्य खरोखरच सक्षम करायचे आहे का?</string>
-    <string name="lineagelicense_title">LineageOS लिगल</string>
+    <string name="lineagelicense_title">AndroidBw लिगल</string>
     <string name="kill_app_longpress_back">अनुप्रयोग बंद करा मागे बटण</string>
     <string name="kill_app_longpress_back_summary">मागे बटण दीर्घ दाबून अग्रभूमी अनुप्रयोग बंद करा</string>
     <string name="device_hostname">डिव्हाइस होस्टनाव</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2012-2016 The CyanogenMod Project
-     Copyright (C) 2017-2019 The LineageOS Project
+     Copyright (C) 2017-2019 The AndroidBw Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -30,7 +30,7 @@
     <string name="adb_over_network">ADB över nätverk</string>
     <string name="adb_over_network_summary">Aktivera TCP/IP-felsökning över nätverksgränssnitt (Wi\u2011Fi, USB-nätverk). Denna inställning återställs vid omstart</string>
     <string name="adb_over_network_warning">VARNING: När ADB över nätverk är aktiverat är din telefon öppen för intrång genom alla sorters anslutna nätverk!\n\nAnvänd endast denna funktion när du är ansluten till betrodda nätverk.\n\nVill du verkligen aktivera denna funktion?</string>
-    <string name="lineagelicense_title">LineageOS Juridik</string>
+    <string name="lineagelicense_title">AndroidBw Juridik</string>
     <string name="kill_app_longpress_back">Döda appar med bakåtknapp</string>
     <string name="kill_app_longpress_back_summary">Döda appen i förgrunden genom att långtrycka på bakåtknappen</string>
     <string name="device_hostname">Enhetens värdnamn</string>

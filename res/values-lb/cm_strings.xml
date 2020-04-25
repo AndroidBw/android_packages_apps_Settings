@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2012-2016 The CyanogenMod Project
-     Copyright (C) 2017-2019 The LineageOS Project
+     Copyright (C) 2017-2019 The AndroidBw Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -28,7 +28,7 @@
     <string name="adb_over_network">ADB iwwer Netzwierk</string>
     <string name="adb_over_network_summary">TCP/IP-Debugging iwwer Netzwierkschnëttstellen (WLAN, USB-Netzwierker) aktivéieren. Dës Astellung gëtt beim Neistart zréckgesat</string>
     <string name="adb_over_network_warning">WARNUNG: Wann ADB iwwer Netzwierk aktivéiert ass, ass däin Telefon op fir Intrusiounen aus alle connectéierten Netzwierker!\n\nBenotz dës Funktioun just, wann s du mat vertrauenswierdegen Netzwierker connectéiert bass.\n\nWëlls du dës Funktioun aktivéieren?</string>
-    <string name="lineagelicense_title">Rechtlech Hiweiser iwwer LineageOS</string>
+    <string name="lineagelicense_title">Rechtlech Hiweiser iwwer AndroidBw</string>
     <string name="kill_app_longpress_back">Appe mam \"Zréck\"-Knäppchen zoumaachen</string>
     <string name="kill_app_longpress_back_summary">D\'App am Virgrond zoumaache wann den \"Zréck\"-Knäppche laang gedréckt gëtt</string>
     <string name="device_hostname">Hostnumm vum Apparat</string>

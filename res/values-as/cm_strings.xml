@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2012-2016 The CyanogenMod Project
-     Copyright (C) 2017-2019 The LineageOS Project
+     Copyright (C) 2017-2019 The AndroidBw Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -28,7 +28,7 @@
     <string name="adb_over_network">ADB অভাৰ নেটৱৰ্ক</string>
     <string name="adb_over_network_summary">নেটৱৰ্ক ইণ্টাৰফেচৰ ওপৰত TCP/IP ডিবাগিং সক্ষম কৰক (ৱাই\u2011ফাই, USB নেটৱৰ্ক) এই ছেটিংটো ৰিবুট কৰিলে ৰিছেট হয়</string>
     <string name="adb_over_network_warning">সকীয়নি: যেতিয়া ADB অভাৰ নেটৱৰ্ক সক্ষম কৰা হয়, আপোনাৰ ফোনটো সকলো সংযোগিত নেটৱৰ্কৰ দ্বাৰা অনাধিকাৰ প্ৰৱেশৰ বাবে মুকলি হয়!\n\nকেৱল আপুনি বিশ্বাসী নেটৱৰ্কৰ সৈতে সংযোগিত হ\'লেহে এই বৈশিষ্ট্যটো ব্যৱহাৰ কৰক।\n\n আপুনি সঁচাকৈ এই ফাংচনটো সক্ষম কৰিব বিচাৰে নে?</string>
-    <string name="lineagelicense_title">LineageOS আইনী</string>
+    <string name="lineagelicense_title">AndroidBw আইনী</string>
     <string name="kill_app_longpress_back">কিল এপ্প্ বেক বুটাম</string>
     <string name="kill_app_longpress_back_summary">বেক বুটাম দীঘলকৈ টিপি সম্মুখত থকা এপ্প্ আঁতৰাওক</string>
     <string name="device_hostname">ডিভাইচৰ হোষ্টনেম</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2012-2016 The CyanogenMod Project
-     Copyright (C) 2017-2019 The LineageOS Project
+     Copyright (C) 2017-2019 The AndroidBw Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -31,7 +31,7 @@
     <string name="adb_over_network">Sare gaineko ADB</string>
     <string name="adb_over_network_summary">Gaitu sare interfaze gaineko TCP/IP arazketa (Wi\u2011Fi, USB sareak). Ezarpen hau gailua berrabiaraztean leheneratzen da</string>
     <string name="adb_over_network_warning">KONTUZ: Sare gaineko ADB gaituta badago, zure telefonoa kanpo erasoak jaso ditzake konektatutako sare guztietatik!\n\n Erabili ezaugarri hau soilik konfiantzako sareetara konektatuta zaudenean.\n\nEzaugarri hau gaitu nahi duzu?</string>
-    <string name="lineagelicense_title">LineageOS lizentzia</string>
+    <string name="lineagelicense_title">AndroidBw lizentzia</string>
     <string name="kill_app_longpress_back">Hil aplikazioa atzera botoiarekin</string>
     <string name="kill_app_longpress_back_summary">Hil aurrealdeko aplikazioa atzera botoia luze sakatuz</string>
     <string name="device_hostname">Gailuaren izena</string>

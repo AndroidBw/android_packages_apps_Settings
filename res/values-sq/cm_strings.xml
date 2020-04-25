@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2012-2016 The CyanogenMod Project
-     Copyright (C) 2017-2019 The LineageOS Project
+     Copyright (C) 2017-2019 The AndroidBw Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -31,7 +31,7 @@
     <string name="adb_notify_summary">Shfaq një njoftim kur debugimi i USB-së apo rrjetit është i aktivizuar</string>
     <string name="adb_over_network">ADB mbi rrjet</string>
     <string name="adb_over_network_summary">Aktivizo debugimin TCP/IP mbi ndërfaqet e rrjetit (Wi\u2011Fi, rrjetet USB). Ky parametër do të çaktivizohet gjatë rindezjes</string>
-    <string name="lineagelicense_title">Liçensa e LineageOS</string>
+    <string name="lineagelicense_title">Liçensa e AndroidBw</string>
     <string name="kill_app_longpress_back">Mbyll aplikacionin me butonin Prapa</string>
     <string name="kill_app_longpress_back_summary">Mbyll aplikacionin aktual duke mbajtur shtypur butonin Prapa</string>
     <string name="device_hostname">Emri i pajisjes</string>

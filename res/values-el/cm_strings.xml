@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2012-2016 The CyanogenMod Project
-     Copyright (C) 2017-2019 The LineageOS Project
+     Copyright (C) 2017-2019 The AndroidBw Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -34,7 +34,7 @@
     <string name="adb_over_network">ADB μέσω δικτύου</string>
     <string name="adb_over_network_summary">Λειτουργία εντοπισμού σφαλμάτων μέσω TCP/IP δικτύων (δίκτυα Wi-Fi, USB). Η ρύθμιση επαναφέρεται κατα την εκκίνηση</string>
     <string name="adb_over_network_warning">ΠΡΟΣΟΧΗ: Όταν ο εντοπισμός σφαλμάτων μέσω δικτύου είναι ενεργοποιημένος, το τηλέφωνό σας είναι ανοικτό για εισβολές σε όλα τα συνδεδεμένα δίκτυα!\n\nΧρησιμοποιήστε αυτή τη λειτουργία μόνο όταν είστε συνδεδεμένοι σε έμπιστα δίκτυα.\n\nΘέλετε πραγματικά να ενεργοποιήσετε αυτή τη λειτουργία;</string>
-    <string name="lineagelicense_title">Νομικές πληροφορίες LineageOS</string>
+    <string name="lineagelicense_title">Νομικές πληροφορίες AndroidBw</string>
     <string name="kill_app_longpress_back">Τερμ. με πλήκτρο πίσω</string>
     <string name="kill_app_longpress_back_summary">Πιέζοντας παρατεταμένα το πλήκτρο πίσω, τερματίζετε την τρέχουσα εφαρμογή</string>
     <string name="device_hostname">Hostname συσκευής</string>

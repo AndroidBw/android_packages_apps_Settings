@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2012-2016 The CyanogenMod Project
-     Copyright (C) 2017-2019 The LineageOS Project
+     Copyright (C) 2017-2019 The AndroidBw Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -30,7 +30,7 @@
     <string name="adb_over_network">ADB qua mạng</string>
     <string name="adb_over_network_summary">Bật tính năng gỡ lỗi TCP/IP qua giao diện mạng (mạng Wi\u2011Fi, USB). Thiết lập này sẽ được đặt lại khi khởi động lại máy</string>
     <string name="adb_over_network_warning">CẢNH BÁO: Khi ADB qua mạng được bật, điện thoại của bạn sẽ có thể bị xâm nhập trên tất cả các mạng kết nối!\n\nChỉ sử dụng tính năng này khi bạn đang kết nối trên các mạng đáng tin cậy.\n\nBạn có thực sự muốn bật chức năng này?</string>
-    <string name="lineagelicense_title">Bộ phận pháp chế của LineageOS</string>
+    <string name="lineagelicense_title">Bộ phận pháp chế của AndroidBw</string>
     <string name="kill_app_longpress_back">Tắt ứng dụng bằng phím back</string>
     <string name="kill_app_longpress_back_summary">Nhấn giữ phím back để tắt ứng dụng chạy nổi</string>
     <string name="device_hostname">Tên máy chủ của thiết bị</string>

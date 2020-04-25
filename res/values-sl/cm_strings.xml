@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2012-2016 The CyanogenMod Project
-     Copyright (C) 2017-2019 The LineageOS Project
+     Copyright (C) 2017-2019 The AndroidBw Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -36,7 +36,7 @@
     <string name="adb_over_network">ADB prek omrežja</string>
     <string name="adb_over_network_summary">Omogoči razhroščevanje TCP/IP prek omrežnih vmesnikov (Wi\u2011Fi, omrežij USB). Ta nastavitev se ob vnovičnem zagonu ponastavi</string>
     <string name="adb_over_network_warning">OPOZRILO: Ko je ADB prek omrežja omogočen, je vaš telefon ranljiv za vdore iz vseh povezanih omrežij! \n\nTo značilnost uporabljajte samo, ko ste povezani na zaupanja vredna omrežja.\n\nAli res želite omogočiti to značilnost?</string>
-    <string name="lineagelicense_title">Pravna obvestila LineageOS</string>
+    <string name="lineagelicense_title">Pravna obvestila AndroidBw</string>
     <string name="kill_app_longpress_back">Gumb Nazaj uniči aplikacijo</string>
     <string name="kill_app_longpress_back_summary">Uniči aplikacijo v ospredju z dolgim pritiskom na gumb Nazaj</string>
     <string name="device_hostname">Gostiteljsko ime naprave</string>

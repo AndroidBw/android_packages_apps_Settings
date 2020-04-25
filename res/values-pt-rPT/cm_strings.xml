@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2012-2016 The CyanogenMod Project
-     Copyright (C) 2017-2019 The LineageOS Project
+     Copyright (C) 2017-2019 The AndroidBw Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -34,7 +34,7 @@
     <string name="adb_over_network">ADB através da rede</string>
     <string name="adb_over_network_summary">Ativar a depuração TCP/IP sobre as interfaces de rede (Wi\u2011Fi, USB). Esta definição é restaurada ao reiniciar</string>
     <string name="adb_over_network_warning">Aviso: Quando o ADB sobre a rede está ativado, o seu telefone fica desprotegido e pode facilitar invasões em todas as redes conectadas! \n\nUsar esta funcionalidade apenas quando estiver conectado a redes de confiança.\n\nQuer mesmo ativar esta função?</string>
-    <string name="lineagelicense_title">Licença LineageOS</string>
+    <string name="lineagelicense_title">Licença AndroidBw</string>
     <string name="kill_app_longpress_back">Fechar aplicação no botão Anterior</string>
     <string name="kill_app_longpress_back_summary">Fechar a aplicação em primeiro plano com pressão longa no botão Anterior</string>
     <string name="device_hostname">Nome do dispositivo</string>

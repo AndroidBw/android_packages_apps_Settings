@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2012-2016 The CyanogenMod Project
-     Copyright (C) 2017-2019 The LineageOS Project
+     Copyright (C) 2017-2019 The AndroidBw Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -35,7 +35,7 @@
     <string name="adb_over_network">ADB عبر الشبكة</string>
     <string name="adb_over_network_summary">تمكين تنقيح الأخطاء عبر TCP/IP عبر واجهات شبكة الاتصال (Wi\u2011Fi وUSB). يُعاد تعيين هذا الإعداد عند إعادة التشغيل</string>
     <string name="adb_over_network_warning">تحذير: عند تمكين ADB عبر الشبكة، يصبح هاتفك عرضة للتطفل على جميع شبكات المتصل بها!\n\nاستخدم هذه الميزة فقط عندما تكون متصلاً بشبكات موثوق بها.\n\nهل تريد حقا تمكين هذه الوظيفة؟</string>
-    <string name="lineagelicense_title">قانون LineageOS</string>
+    <string name="lineagelicense_title">قانون AndroidBw</string>
     <string name="kill_app_longpress_back">زر إلغاء التطبيق مجدداً</string>
     <string name="kill_app_longpress_back_summary">قم بإنهاء التطبيق الأمامي بالضغط الطويل على زر العودة</string>
     <string name="device_hostname">اسم مضيف الجهاز</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2012-2016 The CyanogenMod Project
-     Copyright (C) 2017-2019 The LineageOS Project
+     Copyright (C) 2017-2019 The AndroidBw Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -30,7 +30,7 @@
     <string name="adb_over_network">透過網路 ADB</string>
     <string name="adb_over_network_summary">啟用透過網路介面 (Wi\u2011Fi、USB 網路) 進行 TCP/IP 偵錯。該設定會在重新啟動後重設</string>
     <string name="adb_over_network_warning">警告：當啟用網路 ADB 時，您的手機將開放於所有已連線的網路！\n\n建議您已連線到信任的網路才使用此功能。\n\n您確定您想啟用此功能嗎？</string>
-    <string name="lineagelicense_title">LineageOS 法律條款</string>
+    <string name="lineagelicense_title">AndroidBw 法律條款</string>
     <string name="kill_app_longpress_back">返回鍵可終止應用程式</string>
     <string name="kill_app_longpress_back_summary">長按返回鍵終止前景應用程式</string>
     <string name="device_hostname">裝置主機名稱</string>

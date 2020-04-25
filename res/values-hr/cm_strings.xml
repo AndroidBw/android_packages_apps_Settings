@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2012-2016 The CyanogenMod Project
-     Copyright (C) 2017-2019 The LineageOS Project
+     Copyright (C) 2017-2019 The AndroidBw Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -32,7 +32,7 @@
     <string name="adb_over_network">ADB preko mreže</string>
     <string name="adb_over_network_summary">Omogući TCP/IP ispravljanje pogrešaka preko mrežnih sučelja (Wi-Fi, USB mreže). Ovo podešavanje se resetira pri restartu</string>
     <string name="adb_over_network_warning">UPOZORENJE: Kada je omogućen ADB preko mreže, vaš telefon je otvoren za upad na svim povezanim mrežama!\n\nKoristite ovu funkciju samo kada ste povezani s pouzdanim mrežama.\n\nDa li zaista želite omogućiti ovu značajku?</string>
-    <string name="lineagelicense_title">LineageOS licenca</string>
+    <string name="lineagelicense_title">AndroidBw licenca</string>
     <string name="kill_app_longpress_back">Zatvori aplikaciju tipkom natrag</string>
     <string name="kill_app_longpress_back_summary">Zatvori pozadinske aplikacije dugim pritiskom tipke natrag</string>
     <string name="device_hostname">Naziv uređaja</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2012-2016 The CyanogenMod Project
-     Copyright (C) 2017-2019 The LineageOS Project
+     Copyright (C) 2017-2019 The AndroidBw Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -31,7 +31,7 @@
     <string name="adb_over_network">ADB sobre rede</string>
     <string name="adb_over_network_summary">Activar la depuración TCP/IP sobre les interfaces de rede (Wi\u2011Fi, redes USB). Esta configuración restablezse al reaniciar el preséu</string>
     <string name="adb_over_network_warning">AVISU: Cuando ta habilitáu ADB sobre rede, el teléfono ta abiertu pa intrusiones en toles redes coneutaes.\n\nUsa esta función namái coneutáu a redes de confianza.\n\n¿Daveres quies activar esta función?</string>
-    <string name="lineagelicense_title">Llicencia LineageOS</string>
+    <string name="lineagelicense_title">Llicencia AndroidBw</string>
     <string name="kill_app_longpress_back">Botón Volver</string>
     <string name="kill_app_longpress_back_summary">Matar l\'aplicación actual al caltener primíu\'l botón Volver</string>
     <string name="device_hostname">Nome del preséu</string>

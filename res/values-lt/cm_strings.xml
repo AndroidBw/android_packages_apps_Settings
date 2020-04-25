@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2012-2016 The CyanogenMod Project
-     Copyright (C) 2017-2019 The LineageOS Project
+     Copyright (C) 2017-2019 The AndroidBw Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -24,7 +24,7 @@
     <string name="adb_over_network">„Android“ derinimas per tinklą</string>
     <string name="adb_over_network_summary">Įgalinti TCP / IP derinimą per tinklą („Wi-Fi“, USB tinklai). Šis nustatymas nustatomas iš naujo, paleidimo iš naujo metu</string>
     <string name="adb_over_network_warning">ISPĖJIMAS: Kai „Android“ derinimas per tinklą yra įgalintas, jūsų telefonas yra atviras įsibrovimams iš visų prijungtų tinklų!\n\nNaudokite šią funkciją tik tada, kai esate prisijungę prie patikimų tinklų.\n\nAr tikrai norite įgalinti šią funkciją?</string>
-    <string name="lineagelicense_title">Teisinė „LineageOS“ informacija</string>
+    <string name="lineagelicense_title">Teisinė „AndroidBw“ informacija</string>
     <string name="kill_app_longpress_back">Priverstinai uždaryti programą mygtuku atgal</string>
     <string name="kill_app_longpress_back_summary">Priverstinai uždaryti programą ilgai spaudžiant mygtuką atgal</string>
     <string name="device_hostname">Įrenginio vardas tinkle</string>

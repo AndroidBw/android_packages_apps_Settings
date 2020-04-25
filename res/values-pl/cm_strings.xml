@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2012-2016 The CyanogenMod Project
-     Copyright (C) 2017-2019 The LineageOS Project
+     Copyright (C) 2017-2019 The AndroidBw Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -36,7 +36,7 @@
     <string name="adb_over_network">ADB przez sieć</string>
     <string name="adb_over_network_summary">Aktywuj debugowanie TCP/IP przez interfejs sieciowy (Wi-Fi, sieci USB). Ustawienie zostanie zresetowane po ponownym uruchomieniu</string>
     <string name="adb_over_network_warning">OSTRZEŻENIE: Gdy ADB przez sieć jest włączone, twój telefon jest narażony na intruzów z wszystkich podłączonych sieci!\n\nUżywaj tej funkcji tylko wtedy, gdy korzystasz z zaufanych sieci.\n\nNa pewno chcesz włączyć tę funkcję?</string>
-    <string name="lineagelicense_title">Informacje prawne LineageOS</string>
+    <string name="lineagelicense_title">Informacje prawne AndroidBw</string>
     <string name="kill_app_longpress_back">Zabijaj aplikacje przyciskiem wstecz</string>
     <string name="kill_app_longpress_back_summary">Przytrzymanie przycisku wstecz zabija aktywną aplikację</string>
     <string name="device_hostname">Nazwa hosta urządzenia</string>
